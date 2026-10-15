@@ -1,0 +1,7 @@
+{
+  "name": "local-pwd",
+  "owner": { "name": "jun.jo" },
+  "plugins": [
+    { "name": "pwd", "source": "./", "description": "Print the current directory without calling the model" }
+  ]
+}
